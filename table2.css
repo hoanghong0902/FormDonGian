@@ -1,0 +1,26 @@
+body {
+    padding:5px;
+}
+table {
+    width: 300px;
+    height:50%;
+    border-collapse: serapate;
+    background-color: #e4c89e;
+}
+
+td, th {
+    padding: 5px;
+    border: 0 left;
+}
+th{
+    font-family: 'Times New Roman', cursive;
+    font-size:16px;
+    font-weight:200;
+    color:#230789;
+    text-align:left;
+    padding:5px;
+    background-color: #e4c89e;
+}
+.t {
+    background-color: #11c9de;
+}
