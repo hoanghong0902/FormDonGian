@@ -1,0 +1,38 @@
+body {
+    padding:5px
+}
+table {
+    width: 50%;
+    height:50%;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+    border: 0 left;
+}
+th{
+    font-family: 'Times New Roman', cursive;
+    font-size:16px;
+    font-weight:400;
+    color:#3805f2;
+    text-align:left;
+    padding:20px;
+    background-color: #ffffff;
+    border-color: white;
+}
+
+.tdd {
+    color:#ffffff;
+    text-align: center;
+    background: rgb(248, 3, 3);
+}
+.t {
+    font-family: 'Times New Roman', sans-serif;
+    font-weight:400;
+    color:#f90505;
+    font-size:13px;
+    padding:20px 20px 20px 20px;
+    border-bottom:1px solid #ffffff;
+    text-align: left;
+}
